@@ -1,0 +1,12 @@
+rio/rasterio: writing raster, clipping, reprojecting; 
+xarray: to work with array that are labled, e.g. time series of landsat data. work with rasters as labeled array
+
+rioxarray: a pleasant library to word with spatial data
+
+DataArray data dimension: band: number of dimension
+_FillValue: NA value
+scale_factor: pixel to 
+
+reproject_match(): reprojection and clip the bounds
+
+robust = True: removed 2% percentiles
